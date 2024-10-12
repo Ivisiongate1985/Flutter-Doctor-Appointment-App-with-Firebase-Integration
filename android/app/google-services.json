@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "330533452934",
+    "project_id": "docappointmentapp",
+    "storage_bucket": "docappointmentapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:330533452934:android:6da3cc0ed2079dce292507",
+        "android_client_info": {
+          "package_name": "com.example.smithackathon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ96pZQmrbEVqSfT1IgQkCYKPKjrJbYfo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
